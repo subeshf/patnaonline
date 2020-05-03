@@ -1,0 +1,12 @@
+.mdb-color {
+    background-color: rgba(27, 146, 140, 0.74) !important;
+}
+a {
+    color: #050500;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.text-center {
+    text-align: centre!important;
+}
